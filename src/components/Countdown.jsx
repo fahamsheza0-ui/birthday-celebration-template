@@ -99,9 +99,7 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
           prevValue={prevTime.seconds}
         />
       </div>
-<h1 className="birthday-celebration-title">
-  Counting down to Safura's special day 🎂
-  </h1>
+
   <p className="birthday-celebration-message">
     Something magical is about to unfold...
     </p>
