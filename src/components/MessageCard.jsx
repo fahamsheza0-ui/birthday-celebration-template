@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Safura],
+  const message = `Safura,
   
   Have a great day filled with laughter and joy!
 
@@ -32,7 +32,7 @@ I hope you achieve great things in life and with great people who love and cheri
 
 Happy Birthday! 🎉
 
-— [Sheza]`;
+—Sheza`;
 
   // Handle page transitions
   useEffect(() => {
