@@ -214,6 +214,7 @@ Happy Birthday! 🎉
           role="article"
           aria-label="Birthday message"
         >
+        <h1>Happy Birthday Safura!</h1>
           <p className="typed-text">{message}</p>
         </div>
       </div>
