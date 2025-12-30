@@ -13,19 +13,26 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Safura],
+  
+  Have a great day filled with laughter and joy!
 
-Your personalized birthday message goes here.
+I can't explain in how much you mean to me and how i wish i coulde been there with you on your special day,
+and youre offically an adult now :)) cant believe 🤧.Bache kab badhe ho jate hain pata nahi chalta 🤧. Lol dont mind me being dramatic
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+i don't know what i would do without you,even if it seems to you that you arent there for me much! But thats so wronggg, you've been there always when i needed youuu
+I hope you realise your importance not only to me but everyone who is lucky to have you in their life
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+I hope up remember that no matter what, I'll always be there for you and i fully intend you stay in your life for as long as I'm alive 
+i love you for the way you are and please stay that way! Do not change for anyone!
+
+
+I hope you achieve great things in life and with great people who love and cherish you!
+
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [Sheza]`;
 
   // Handle page transitions
   useEffect(() => {
