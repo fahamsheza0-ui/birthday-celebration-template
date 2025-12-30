@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import "./Countdown.css";
 
+const recipitantName= "Safura"
 function Countdown({ onBirthdayReached, birthdayReached }) {
   const [time, setTime] = useState({ hours: 0, minutes: 0, seconds: 0 });
   const [prevTime, setPrevTime] = useState({
